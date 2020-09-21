@@ -1,0 +1,10 @@
+**/.idea/
+tmp/
+index.html_old
+*_old
+*_backup
+Thumbs.db
+*DS_Store
+/img/NeuroStartUp.png_backup
+/tmp/*.DS_Store
+/img/*.DS_Store
